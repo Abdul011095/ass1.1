@@ -1,0 +1,21 @@
+1: various sources of big data are
+  *public data
+  *transactions
+  *social media
+  *business
+  *sensors data
+  *weather
+=================================================================
+2: 3 v's of big data are
+	*variety
+	*velocity
+	*volume
+====================================================================
+3: 
+   Horizantal scaling is adding more nodes to the exsisting system
+   vertical scaling is adding of exra resourses ta a node
+=====================================================================
+4: Need and working of hadoop
+       need:To handle the huge amount of date which size exceeds the size of the system we need hadoop
+	    To handle structured,unstructured,semi structured data we need hadoop
+	working:the data is saved in HDFS and it is processed by process namely mapreduce
